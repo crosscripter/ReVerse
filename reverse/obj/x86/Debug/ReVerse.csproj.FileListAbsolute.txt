@@ -1,0 +1,9 @@
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\bin\Debug\ReVerse.exe
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\bin\Debug\ReVerse.pdb
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\ReVerse.exe
+C:\Users\MichaelS\documents\visual studio 2010\Projects\ReVerse\ReVerse\obj\x86\Debug\ReVerse.pdb
